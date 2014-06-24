@@ -1,1 +1,6 @@
-h1 Hello, World
+header
+  h1 TimeTracker
+
+section#main
+  = outlet
+
