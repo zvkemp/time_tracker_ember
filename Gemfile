@@ -34,3 +34,7 @@ group :doc do
   gem 'sdoc', require: false
 end
 
+group :test, :development do
+  require 'ffaker'
+  require 'factory_girl'
+end
