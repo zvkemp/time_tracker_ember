@@ -3,6 +3,7 @@ source 'https://rubygems.org'
 gem 'thin'
 gem 'ember-rails'
 gem 'ember-source'
+gem 'emblem-rails'
 
 # Bundle edge Rails instead: gem 'rails', github: 'rails/rails'
 gem 'rails', '4.0.3'
