@@ -1,6 +1,6 @@
 header
   h1 TimeTracker
 
-section#main
+section#main.outlet-wrapper
   = outlet
 

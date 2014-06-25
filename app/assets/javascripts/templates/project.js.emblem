@@ -1,0 +1,9 @@
+h2
+  name
+
+p
+  description
+
+.outlet-wrapper
+  outlet
+

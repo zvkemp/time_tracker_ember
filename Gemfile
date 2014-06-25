@@ -35,6 +35,6 @@ group :doc do
 end
 
 group :test, :development do
-  require 'ffaker'
-  require 'factory_girl'
+  gem 'ffaker'
+  gem 'factory_girl'
 end

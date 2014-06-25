@@ -2,4 +2,9 @@ article#projects
   h1 Projects
   ul
     each project in controller
-      li= project.name
+      li
+        link-to 'activities' project
+          project.name
+
+.outlet-wrapper
+  outlet
